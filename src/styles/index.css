@@ -38,3 +38,19 @@ h4 {
   display: flex;
   flex-wrap: wrap;
 }
+
+.imagem-1{
+  width: 100%;
+  position: relative; bottom: 240px; left: 0px;
+}
+
+.imagem-2{
+  width: 100%;
+  position: relative; top: 252px;
+}
+
+.content-box{
+  position: sticky;
+  bottom: 50px;
+}
+
